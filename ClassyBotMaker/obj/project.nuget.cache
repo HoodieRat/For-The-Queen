@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "er6/QRFcnRVcStFnNOJbdIcYU1ySPwXm/PKCjDQI7k/0aY4SWFI1KuDU9ugeA9K8Pa0rnFmx7YrsbxFv9ENkYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frien\\source\\repos\\ClassyBotMaker\\ClassyBotMaker\\ClassyBotMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frien\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\frien\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
